@@ -1,0 +1,21 @@
+ul {
+  list-style-type: none;
+  display: block;
+  background-color: #696969;
+  overflow: hidden;
+  margin: 0;
+  padding: 0; }
+  ul li {
+    float: left;
+    border-right: 1px solid red;
+    border-bottom: 6px solid #000; }
+    ul li a {
+      text-decoration: none;
+      display: block;
+      padding: 14px 45px;
+      color: #FF00FF; }
+      ul li a:hover {
+        background-color: black;
+        color: white; }
+
+/*# sourceMappingURL=style.css.map */
